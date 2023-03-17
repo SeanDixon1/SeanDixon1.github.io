@@ -1,5 +1,5 @@
 title: Sean Dixon # your name (or website title) here
-logo: "![Book logo](/least-github-pages/assets/headshot.png)" # your photo (or logo) here
+logo: <img src="{{ "/assets/Headshot.png" | prepend: site.baseurl | prepend: site.url}}" alt="Untitled" /> # your photo (or logo) here
   <br><br>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data analyst|Sports Data fanatic 
