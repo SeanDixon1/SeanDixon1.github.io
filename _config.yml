@@ -3,6 +3,7 @@ logo: "Headshot.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data analyst|Sports Data fanatic 
   <a href="https://www.linkedin.com/in/seantdixon1/">
+  <br><br>
   View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
